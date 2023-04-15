@@ -1,0 +1,915 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{who2018}{report}{}
+      \name{author}{1}{}{%
+        {{hash=8179b1fdebe9235e54501d2878c47e1b}{%
+           family={Organization},
+           familyi={O\bibinitperiod},
+           given={World\bibnamedelima Health},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {World Health Organization}%
+      }
+      \list{location}{1}{%
+        {Geneva}%
+      }
+      \strng{namehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{fullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{bibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorbibnamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authornamehash}{8179b1fdebe9235e54501d2878c47e1b}
+      \strng{authorfullhash}{8179b1fdebe9235e54501d2878c47e1b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global status report on road safety 2018}
+      \field{type}{Technical Report}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.who.int/publications/i/item/9789241565684
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/publications/i/item/9789241565684
+      \endverb
+    \endentry
+    \entry{GBRTE2021}{report}{}
+      \list{institution}{1}{%
+        {Department for Transport}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Road Traffic Estimates in Great Britain 2021}
+      \field{type}{Technical Report}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1107056/road-traffic-estimates-in-great-britain-2021.pdf
+      \endverb
+      \verb{url}
+      \verb https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1107056/road-traffic-estimates-in-great-britain-2021.pdf
+      \endverb
+    \endentry
+    \entry{RTAD2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=db626e16d713bb4b9761c7a24bde05ec}{%
+           family={Transport},
+           familyi={T\bibinitperiod},
+           given={Department},
+           giveni={D\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{fullhash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{bibnamehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{authorbibnamehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{authornamehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{authorfullhash}{db626e16d713bb4b9761c7a24bde05ec}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://roadtraffic.dft.gov.uk/custom-downloads/road-accidents}}
+      \field{note}{Accessed: 2023-04-02}
+      \field{title}{Road Traffic Accident Data}
+      \field{year}{2023}
+    \endentry
+    \entry{VALENT200271}{article}{}
+      \name{author}{6}{}{%
+        {{hash=fb333c4d328b6a6303ff17309e5d692a}{%
+           family={Valent},
+           familyi={V\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2b0a06a04ddbf154d9237f1fdff56856}{%
+           family={Schiava},
+           familyi={S\bibinitperiod},
+           given={Flavio},
+           giveni={F\bibinitperiod}}}%
+        {{hash=727c2cfcd4d449e89f4a52eb4a9b2383}{%
+           family={Savonitto},
+           familyi={S\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d719fa7c4cd01c5a2ce090470bb33cc9}{%
+           family={Gallo},
+           familyi={G\bibinitperiod},
+           given={Tolinda},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8c0d593c93e37d99094228b5e217076f}{%
+           family={Brusaferro},
+           familyi={B\bibinitperiod},
+           given={Silvio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5a078d1b34dc249a10573c43ee16a499}{%
+           family={Barbone},
+           familyi={B\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4672980db25e956075046f7752ccb2e}
+      \strng{fullhash}{5ea502c338939a46bcb9d3210883ff28}
+      \strng{bibnamehash}{5ea502c338939a46bcb9d3210883ff28}
+      \strng{authorbibnamehash}{5ea502c338939a46bcb9d3210883ff28}
+      \strng{authornamehash}{f4672980db25e956075046f7752ccb2e}
+      \strng{authorfullhash}{5ea502c338939a46bcb9d3210883ff28}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0001-4575}
+      \field{journaltitle}{Accident Analysis & Prevention}
+      \field{number}{1}
+      \field{title}{Risk factors for fatal road traffic accidents in Udine, Italy}
+      \field{volume}{34}
+      \field{year}{2002}
+      \field{pages}{71\bibrangedash 84}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0001-4575(00)00104-4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0001457500001044
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0001457500001044
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-030-39431-8_50}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=eb9f36dca0e147682dc050aef18fb1f6}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Mingchen},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a876bee3d2679ab276264adbd9a43779}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jiangbin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5008c183302bcd58423ae8938be69388}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Jinchang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=831de41e87e01bb3bc70ea08819de8b7}{%
+           family={Xi},
+           familyi={X\bibinitperiod},
+           given={Yue},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \name{editor}{8}{}{%
+        {{hash=5008c183302bcd58423ae8938be69388}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Jinchang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8ad3729a7efea6d2ab38e43640ab6f27}{%
+           family={Hussain},
+           familyi={H\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+        {{hash=df6f80746582273aa2a38e11439ad9fb}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Huimin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5888da6ce16ab5130e7e65b9bdb5bfa3}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Kaizhu},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a876bee3d2679ab276264adbd9a43779}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jiangbin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=704989978999b2d3adaa185bdb8dba93}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=29bbdb9fcdb67f3494660b939f4fb486}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Rongjun},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c410980bdce376721d347a6db0bb90e8}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Yinyin},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{3fa254662bbae651134669d889481d4b}
+      \strng{fullhash}{f5c1f4b99c2cc89b3465675fb08964e5}
+      \strng{bibnamehash}{f5c1f4b99c2cc89b3465675fb08964e5}
+      \strng{authorbibnamehash}{f5c1f4b99c2cc89b3465675fb08964e5}
+      \strng{authornamehash}{3fa254662bbae651134669d889481d4b}
+      \strng{authorfullhash}{f5c1f4b99c2cc89b3465675fb08964e5}
+      \strng{editorbibnamehash}{6cc5515e4eaebdedf0ef3e5ebdb9447a}
+      \strng{editornamehash}{6cc5515e4eaebdedf0ef3e5ebdb9447a}
+      \strng{editorfullhash}{a28e144ee8ba688fa70820f4dfcf8f77}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Road Traffic Accidents (RTAs) are currently the leading causes of traffic congestion, human death, health problems, environmental pollution, and economic losses. Investigation of the characteristics and patterns of RTAs is one of the high-priority issues in traffic safety analysis. This paper presents our work on mining RTAs using association rule based methods. A case study is conducted using UK traffic accident data from 2005 to 2017. We performed Apriori algorithm on the data set and then explored the rules with high lift and high support respectively. The results show that RTAs have strong correlation with environmental characteristics, speed limit, and location. With the network visualization, we can explain in details the association rules and obtain more understandable insights into the results. The promising outcomes will undoubtedly reduce traffic accident effectively and assist traffic safety department for decision making.}
+      \field{booktitle}{Advances in Brain Inspired Cognitive Systems}
+      \field{isbn}{978-3-030-39431-8}
+      \field{title}{Association Rule Mining for Road Traffic Accident Analysis: A Case Study from UK}
+      \field{year}{2020}
+      \field{pages}{520\bibrangedash 529}
+      \range{pages}{10}
+    \endentry
+    \entry{MICHALAKI201589}{article}{}
+      \name{author}{4}{}{%
+        {{hash=063c9e88612578ec97925f51d781b89f}{%
+           family={Michalaki},
+           familyi={M\bibinitperiod},
+           given={Paraskevi},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4b007c1ee155e0c18be25f265d927a4f}{%
+           family={Quddus},
+           familyi={Q\bibinitperiod},
+           given={Mohammed\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0bd42072a286df792f7c76319509e193}{%
+           family={Pitfield},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fc8871e0faeac77cc4e250aead280ad4}{%
+           family={Huetson},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{19440ee221a8bfcf4707c9db177f2db7}
+      \strng{fullhash}{bb92c266753f2bc2f5fe0e430c3ab098}
+      \strng{bibnamehash}{bb92c266753f2bc2f5fe0e430c3ab098}
+      \strng{authorbibnamehash}{bb92c266753f2bc2f5fe0e430c3ab098}
+      \strng{authornamehash}{19440ee221a8bfcf4707c9db177f2db7}
+      \strng{authorfullhash}{bb92c266753f2bc2f5fe0e430c3ab098}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Problem The severity of motorway accidents that occurred on the hard shoulder (HS) is higher than for the main carriageway (MC). This paper compares and contrasts the most important factors affecting the severity of HS and MC accidents on motorways in England. Method Using police reported accident data, the accidents that occurred on motorways in England are grouped into two categories (i.e., HS and MC) according to the location. A generalized ordered logistic regression model is then applied to identify the factors affecting the severity of HS and MC accidents on motorways. The factors examined include accident and vehicle characteristics, traffic and environment conditions, as well as other behavioral factors. Results Results suggest that the factors positively affecting the severity include: number of vehicles involved in the accident, peak-hour traffic time, and low visibility. Differences between HS and MC accidents are identified, with the most important being the involvement of heavy goods vehicles (HGVs) and driver fatigue, which are found to be more crucial in increasing the severity of HS accidents. Practical applications Measures to increase awareness of HGV drivers regarding the risk of fatigue when driving on motorways, and especially the nearside lane, should be taken by the stakeholders.}
+      \field{issn}{0022-4375}
+      \field{journaltitle}{Journal of Safety Research}
+      \field{title}{Exploring the factors affecting motorway accident severity in England using the generalised ordered logistic regression model}
+      \field{volume}{55}
+      \field{year}{2015}
+      \field{pages}{89\bibrangedash 97}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jsr.2015.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022437515000833
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022437515000833
+      \endverb
+      \keyw{Accident severity,Motorway,Hard-shoulder,Generalized ordered logit model,Fatigue}
+    \endentry
+    \entry{kumar2015datamining}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3222537973f54c5e7fa94b7d8723d1c8}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Sachin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7cbaaefb934a5d7a9938138ef5826e2d}{%
+           family={Toshniwal},
+           familyi={T\bibinitperiod},
+           given={Durga},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{56fd794a6d19912439fc3fa76992afda}
+      \strng{fullhash}{56fd794a6d19912439fc3fa76992afda}
+      \strng{bibnamehash}{56fd794a6d19912439fc3fa76992afda}
+      \strng{authorbibnamehash}{56fd794a6d19912439fc3fa76992afda}
+      \strng{authornamehash}{56fd794a6d19912439fc3fa76992afda}
+      \strng{authorfullhash}{56fd794a6d19912439fc3fa76992afda}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Big Data}
+      \field{number}{26}
+      \field{title}{A data mining framework to analyze road accident data}
+      \field{volume}{2}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1186/s40537-015-0035-y
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s40537-015-0035-y
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s40537-015-0035-y
+      \endverb
+    \endentry
+    \entry{COMI2022798}{article}{}
+      \name{author}{3}{}{%
+        {{hash=33124556b9ec31e7b893b11cac761b31}{%
+           family={Comi},
+           familyi={C\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b0aadc09add90f4f9079e0a9f260cbf1}{%
+           family={Polimeni},
+           familyi={P\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6713f75b9e277e37cd1901b39821e87f}{%
+           family={Balsamo},
+           familyi={B\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fc001d63300b2d6edc64022deb2c725}
+      \strng{fullhash}{9fc001d63300b2d6edc64022deb2c725}
+      \strng{bibnamehash}{9fc001d63300b2d6edc64022deb2c725}
+      \strng{authorbibnamehash}{9fc001d63300b2d6edc64022deb2c725}
+      \strng{authornamehash}{9fc001d63300b2d6edc64022deb2c725}
+      \strng{authorfullhash}{9fc001d63300b2d6edc64022deb2c725}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nowadays, road accident is one of the main causes of mortality worldwide. Then, measures are required to reduce or mitigate the accident impacts. The identification of the most effective measures requires an effective analysis of accidents able to identify and classify the causes that can trigger an accident. This study uses data mining as well as clustering approaches to analyze accident data of the 15 districts of Rome Municipality, collected from 2016 to 2019. The aim is to find out which data mining techniques are more suitable to analyze road accidents, to identify the most significant causes and the most recurrent patterns of road accidents by means of a descriptive analysis. Besides, a model to foresee road accidents is proposed. Results show that such analyses can be a powerful tool to plan suitable measures to reduce accidents as well as to forecast in advance the areas to be pointed out.}
+      \field{issn}{2352-1465}
+      \field{journaltitle}{Transportation Research Procedia}
+      \field{note}{24th Euro Working Group on Transportation Meeting}
+      \field{title}{Road Accident Analysis with Data Mining Approach: evidence from Rome}
+      \field{volume}{62}
+      \field{year}{2022}
+      \field{pages}{798\bibrangedash 805}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.trpro.2022.02.099
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352146522002265
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2352146522002265
+      \endverb
+      \keyw{road accidents,road safety,accident analysis,cluster analysis,data mining}
+    \endentry
+    \entry{Nour2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=69dff214a58a030d0ed2352a8efa9480}{%
+           family={Nour},
+           familyi={N\bibinitperiod},
+           given={Mohamed\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=04c774aaa18701b3eee2914ca6d51d13}{%
+           family={Naseer},
+           familyi={N\bibinitperiod},
+           given={Atif},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d910311872af73675fde9c93beaf32cc}{%
+           family={Alkazemi},
+           familyi={A\bibinitperiod},
+           given={Basem},
+           giveni={B\bibinitperiod}}}%
+        {{hash=803aaa6f0a696c27e9c783535f89137f}{%
+           family={Jamil},
+           familyi={J\bibinitperiod},
+           given={Muhammad\bibnamedelima Abid},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {The Science}%
+        {Information Organization}%
+      }
+      \strng{namehash}{0a56b52de2f5858b10e72738cd5a6860}
+      \strng{fullhash}{4c399b6fb05f2e45b5641b8eeddde229}
+      \strng{bibnamehash}{4c399b6fb05f2e45b5641b8eeddde229}
+      \strng{authorbibnamehash}{4c399b6fb05f2e45b5641b8eeddde229}
+      \strng{authornamehash}{0a56b52de2f5858b10e72738cd5a6860}
+      \strng{authorfullhash}{4c399b6fb05f2e45b5641b8eeddde229}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Advanced Computer Science and Applications}
+      \field{number}{12}
+      \field{title}{Road Traffic Accidents Injury Data Analytics}
+      \field{volume}{11}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.14569/IJACSA.2020.0111287
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.14569/IJACSA.2020.0111287
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.14569/IJACSA.2020.0111287
+      \endverb
+    \endentry
+    \entry{ijerph17114111}{article}{}
+      \name{author}{3}{}{%
+        {{hash=34920d1e975566fa35e9c14a4c8eade7}{%
+           family={Ghandour},
+           familyi={G\bibinitperiod},
+           given={Ali\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b3acb668e06bf31098142bfd8bb03780}{%
+           family={Hammoud},
+           familyi={H\bibinitperiod},
+           given={Huda},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3582ac1b9ba749daa811805e4579033c}{%
+           family={Al-Hajj},
+           familyi={A\bibinithyphendelim H\bibinitperiod},
+           given={Samar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d4970b96b9b234a14f76296735fa3b4}
+      \strng{fullhash}{4d4970b96b9b234a14f76296735fa3b4}
+      \strng{bibnamehash}{4d4970b96b9b234a14f76296735fa3b4}
+      \strng{authorbibnamehash}{4d4970b96b9b234a14f76296735fa3b4}
+      \strng{authornamehash}{4d4970b96b9b234a14f76296735fa3b4}
+      \strng{authorfullhash}{4d4970b96b9b234a14f76296735fa3b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Road traffic injury accounts for a substantial human and economic burden globally. Understanding risk factors contributing to fatal injuries is of paramount importance. In this study, we proposed a model that adopts a hybrid ensemble machine learning classifier structured from sequential minimal optimization and decision trees to identify risk factors contributing to fatal road injuries. The model was constructed, trained, tested, and validated using the Lebanese Road Accidents Platform (LRAP) database of 8482 road crash incidents, with fatality occurrence as the outcome variable. A sensitivity analysis was conducted to examine the influence of multiple factors on fatality occurrence. Seven out of the nine selected independent variables were significantly associated with fatality occurrence, namely, crash type, injury severity, spatial cluster-ID, and crash time (hour). Evidence gained from the model data analysis will be adopted by policymakers and key stakeholders to gain insights into major contributing factors associated with fatal road crashes and to translate knowledge into safety programs and enhanced road policies.}
+      \field{issn}{1660-4601}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{number}{11}
+      \field{title}{Analyzing Factors Associated with Fatal Road Crashes: A Machine Learning Approach}
+      \field{volume}{17}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/ijerph17114111
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1660-4601/17/11/4111
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1660-4601/17/11/4111
+      \endverb
+    \endentry
+    \entry{rjrsmsfa}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b546295ef026e37487285ee057d11ad2}{%
+           family={Rolison},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=79931024a3afe5c531b1962f081ba8a0}{%
+           family={Regev},
+           familyi={R\bibinitperiod},
+           given={Shirley},
+           giveni={S\bibinitperiod}}}%
+        {{hash=46ec1f02deb1e7b80580990659ec2678}{%
+           family={Moutari},
+           familyi={M\bibinitperiod},
+           given={Salissou},
+           giveni={S\bibinitperiod}}}%
+        {{hash=63c7369db0fe3b7c8dd15743036735fd}{%
+           family={Feeney},
+           familyi={F\bibinitperiod},
+           given={Aidan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6da85376cb08a0150321d36270f233d3}
+      \strng{fullhash}{ccb53bb2f52d9f882cab848f0594f1fe}
+      \strng{bibnamehash}{ccb53bb2f52d9f882cab848f0594f1fe}
+      \strng{authorbibnamehash}{ccb53bb2f52d9f882cab848f0594f1fe}
+      \strng{authornamehash}{6da85376cb08a0150321d36270f233d3}
+      \strng{authorfullhash}{ccb53bb2f52d9f882cab848f0594f1fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Accident Analysis & Prevention}
+      \field{month}{06}
+      \field{title}{What are the factors that contribute to road accidents? An assessment of law enforcement views, ordinary drivers' opinions, and road accident records}
+      \field{volume}{115}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1016/j.aap.2018.02.025
+      \endverb
+    \endentry
+    \entry{computers11050080}{article}{}
+      \name{author}{13}{}{%
+        {{hash=de33c304dd8f8fd105a86815caa20508}{%
+           family={Infante},
+           familyi={I\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=79bb3793d1dc3e9e32d1c2ca5fd859bf}{%
+           family={Jacinto},
+           familyi={J\bibinitperiod},
+           given={Gonçalo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b5214cb0a712165be1353c1f933cc0da}{%
+           family={Afonso},
+           familyi={A\bibinitperiod},
+           given={Anabela},
+           giveni={A\bibinitperiod}}}%
+        {{hash=99e69d79288d7eb18cb68b8be9278fbd}{%
+           family={Rego},
+           familyi={R\bibinitperiod},
+           given={Leonor},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e5ae122da53f66f22265b42d7fc090e2}{%
+           family={Nogueira},
+           familyi={N\bibinitperiod},
+           given={Vitor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=7a6f382c21ef12553f3839584c3900ff}{%
+           family={Quaresma},
+           familyi={Q\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=046357965ef5574c483dfe564e4a39aa}{%
+           family={Saias},
+           familyi={S\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=109d8b2c71cf1a17dc7d9bdb25201e15}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d3b952b0d8d82d281e80bf99be8fcf5b}{%
+           family={Nogueira},
+           familyi={N\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod}}}%
+        {{hash=4bf7a7ca0004f72a529857781725fe77}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a48472a45512af3d4ea202405abfea8d}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Rosalina\bibnamedelima Pisco},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d590147016e2c5d9efe8ba86cbba602b}{%
+           family={Gois},
+           familyi={G\bibinitperiod},
+           given={Patrícia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=df39f05c8041b9fd38f339ba9958d7df}{%
+           family={Manuel},
+           familyi={M\bibinitperiod},
+           given={Paulo\bibnamedelima Rebelo},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{940ec26c6d4dd6616e222ad968ed8b13}
+      \strng{fullhash}{3373fe3e0bee2fe9549307f95581087c}
+      \strng{bibnamehash}{940ec26c6d4dd6616e222ad968ed8b13}
+      \strng{authorbibnamehash}{940ec26c6d4dd6616e222ad968ed8b13}
+      \strng{authornamehash}{940ec26c6d4dd6616e222ad968ed8b13}
+      \strng{authorfullhash}{3373fe3e0bee2fe9549307f95581087c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Portugal has the sixth highest road fatality rate among European Union members. This is a problem of different dimensions with serious consequences in people&rsquo;s lives. This study analyses daily data from police and government authorities on road traffic accidents that occurred between 2016 and 2019 in a district of Portugal. This paper looks for the determinants that contribute to the existence of victims in road traffic accidents, as well as the determinants for fatalities and/or serious injuries in accidents with victims. We use logistic regression models, and the results are compared to the machine-learning model results. For the severity model, where the response variable indicates whether only property damage or casualties resulted in the traffic accident, we used a large sample with a small imbalance. For the serious injuries model, where the response variable indicates whether or not there were victims with serious injuries and/or fatalities in the traffic accident with victims, we used a small sample with very imbalanced data. Empirical analysis supports the conclusion that, with a small sample of imbalanced data, machine-learning models generally do not perform better than statistical models; however, they perform similarly when the sample is large and has a small imbalance.}
+      \field{issn}{2073-431X}
+      \field{journaltitle}{Computers}
+      \field{number}{5}
+      \field{title}{Comparison of Statistical and Machine-Learning Models on Road Traffic Accident Severity Classification}
+      \field{volume}{11}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/computers11050080
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2073-431X/11/5/80
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2073-431X/11/5/80
+      \endverb
+    \endentry
+    \entry{7965753}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=1c2228351e9cbd39c3e43e24de3cc44c}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Liling},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e2bc4ed50fc1472cbf7b567b32b84265}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Sharad},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0a52171d62519cd6088b0c914d464e3b}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Gongzhu},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{332d3c7eb1aef1dc41582447fa17e066}
+      \strng{fullhash}{332d3c7eb1aef1dc41582447fa17e066}
+      \strng{bibnamehash}{332d3c7eb1aef1dc41582447fa17e066}
+      \strng{authorbibnamehash}{332d3c7eb1aef1dc41582447fa17e066}
+      \strng{authornamehash}{332d3c7eb1aef1dc41582447fa17e066}
+      \strng{authorfullhash}{332d3c7eb1aef1dc41582447fa17e066}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE 15th International Conference on Software Engineering Research, Management and Applications (SERA)}
+      \field{title}{Analysis of road traffic fatal accidents using data mining techniques}
+      \field{year}{2017}
+      \field{pages}{363\bibrangedash 370}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/SERA.2017.7965753
+      \endverb
+    \endentry
+    \entry{IRJET-V7I51291}{article}{}
+      \name{author}{4}{}{%
+        {{hash=557964c1106abd69dc86de1394fc881c}{%
+           family={Shetty},
+           familyi={S\bibinitperiod},
+           given={Poojitha},
+           giveni={P\bibinitperiod}}}%
+        {{hash=e3e9344b32c2dfaceac5fa7310300c9b}{%
+           family={C},
+           familyi={C\bibinitperiod},
+           given={Sachin\bibnamedelima P},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8e20ff8c310d40c9dc1f3652d21c0de9}{%
+           family={Kashyap},
+           familyi={K\bibinitperiod},
+           given={Supreeth\bibnamedelima V},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=96e2fe4451c5c4050ccfabbe48a4cfac}{%
+           family={Madi},
+           familyi={M\bibinitperiod},
+           given={Venkatesh},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{38999f96aa4fb5936e5bd721a6d95ae2}
+      \strng{fullhash}{78a7246be72c886182db6cc76e0a4cd6}
+      \strng{bibnamehash}{78a7246be72c886182db6cc76e0a4cd6}
+      \strng{authorbibnamehash}{78a7246be72c886182db6cc76e0a4cd6}
+      \strng{authornamehash}{38999f96aa4fb5936e5bd721a6d95ae2}
+      \strng{authorfullhash}{78a7246be72c886182db6cc76e0a4cd6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Research Journal of Engineering and Technology (IRJET)}
+      \field{number}{4}
+      \field{title}{Analysis of road accidents using data mining techniques}
+      \field{volume}{4}
+      \field{year}{2017}
+      \field{pages}{1494\bibrangedash 1496}
+      \range{pages}{3}
+      \verb{urlraw}
+      \verb https://www.irjet.net/archives/V4/i4/IRJET-V4I4306.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.irjet.net/archives/V4/i4/IRJET-V4I4306.pdf
+      \endverb
+    \endentry
+    \entry{Karthik2019IdentifyingER}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b4d84a33102ecd4e27101392ea38986}{%
+           family={Karthik},
+           familyi={K\bibinitperiod},
+           given={Durga},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8b1719512eaa11ea5c4a51f60f228476}{%
+           family={Karthikeyan},
+           familyi={K\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=39d3c9d09c1dfcf1a2936be8895f55f4}{%
+           family={Kalaivani},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e2dd2df87af879aacfee1bab556d0c25}{%
+           family={Vijayarekha},
+           familyi={V\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d68100bf27066d2875d8f42b1f52fe8}
+      \strng{fullhash}{777e85ba6061adcfc71db3696b94a174}
+      \strng{bibnamehash}{777e85ba6061adcfc71db3696b94a174}
+      \strng{authorbibnamehash}{777e85ba6061adcfc71db3696b94a174}
+      \strng{authornamehash}{2d68100bf27066d2875d8f42b1f52fe8}
+      \strng{authorfullhash}{777e85ba6061adcfc71db3696b94a174}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{VOLUME-8 ISSUE-10, AUGUST 2019, REGULAR ISSUE}
+      \field{title}{Identifying Efficient Road Safety Prediction Model Using Data Mining Classifiers}
+      \field{year}{2019}
+    \endentry
+    \entry{scikit-learn}{article}{}
+      \name{author}{16}{}{%
+        {{hash=6e96fec0d63277626bb324bd28cdecb7}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b99c2df2144dc5ee09317a7833dea42d}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=955f19cea89ae97bb7936078898e6255}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2787869c9954c1d4e9891098995feb75}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=86d47ab9ca1a9dae108b4d4a0418c679}{%
+           family={Thirion},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d42f9e9cec95da1dad2232eac74982ab}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=8bd8ef25258dd2311f92df23fe71ecf7}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5ee41fa92b9e425806e1773853f1932}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0c808557734e8929976d1f06f99c4ff2}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9662a6ea01596c6dd450817ccac81c4a}{%
+           family={Dubourg},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=39e81a3e2193b954680a0ab847a0bb55}{%
+           family={Vanderplas},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=14c4a498c032f77d0b83f86c710dd50e}{%
+           family={Passos},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc075b18fb4710a1a37b258804c57efe}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=67ec0e8add781665a43010c9559111e9}{%
+           family={Brucher},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dcb3918f09eb8785e6b212a907cc37cf}{%
+           family={Perrot},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab20fcf381cd45daa82417c6fc595051}{%
+           family={Duchesnay},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{dae710add1b58c233b40c77fa8628347}
+      \strng{fullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \strng{bibnamehash}{dae710add1b58c233b40c77fa8628347}
+      \strng{authorbibnamehash}{dae710add1b58c233b40c77fa8628347}
+      \strng{authornamehash}{dae710add1b58c233b40c77fa8628347}
+      \strng{authorfullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{title}{Scikit-learn: Machine Learning in {P}ython}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{pages}{2825\bibrangedash 2830}
+      \range{pages}{6}
+    \endentry
+    \entry{tsiaras2021ukroadsafety}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=850ea30ecd208b024894fc64fcf49bd4}{%
+           family={Tsiaras},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Kaggle}%
+      }
+      \strng{namehash}{850ea30ecd208b024894fc64fcf49bd4}
+      \strng{fullhash}{850ea30ecd208b024894fc64fcf49bd4}
+      \strng{bibnamehash}{850ea30ecd208b024894fc64fcf49bd4}
+      \strng{authorbibnamehash}{850ea30ecd208b024894fc64fcf49bd4}
+      \strng{authornamehash}{850ea30ecd208b024894fc64fcf49bd4}
+      \strng{authorfullhash}{850ea30ecd208b024894fc64fcf49bd4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{UK Road Safety: Traffic Accidents and Vehicles}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles
+      \endverb
+    \endentry
+    \entry{roadtrafficdft}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=db626e16d713bb4b9761c7a24bde05ec}{%
+           family={Transport},
+           familyi={T\bibinitperiod},
+           given={Department},
+           giveni={D\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Department for Transport}%
+      }
+      \strng{namehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{fullhash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{bibnamehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{authorbibnamehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{authornamehash}{db626e16d713bb4b9761c7a24bde05ec}
+      \strng{authorfullhash}{db626e16d713bb4b9761c7a24bde05ec}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://roadtraffic.dft.gov.uk/custom-downloads/road-accidents}}
+      \field{title}{Road Traffic Accident Custom Downloads}
+      \field{year}{n.d.}
+      \verb{urlraw}
+      \verb https://roadtraffic.dft.gov.uk/custom-downloads/road-accidents
+      \endverb
+      \verb{url}
+      \verb https://roadtraffic.dft.gov.uk/custom-downloads/road-accidents
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

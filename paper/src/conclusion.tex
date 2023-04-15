@@ -1,0 +1,29 @@
+An analysis of the UK road traffic accident dataset from 2005 to 2017 revealed a total of 2,058,408 incidents, with 14\% (292,758) categorised as severe accidents.
+Initially, 55 features were examined, but after refining the dataset, 219 features were left for analysis.
+We conducted a Chi-square test on each feature to determine which factors were significantly related to accident severity.
+Out of these, 198 features rejected the null hypothesis, with the top 10 factors being vehicle type (motorcycle), speed limit (60 mph), first point of impact (back), vehicle manoeuvres (waiting to go/held up and slowing or stopping), light conditions (darkness without lighting), vehicle leaving the carriageway (nearside and offside), hitting an object off the carriageway (tree), and junction location (not at or within 20 meters of a junction).
+
+We then used Recursive Feature Elimination to find the ideal number of features for predicting accident severity using a machine learning model.
+This method starts with all available features and iteratively removes one feature at a time, measuring the relationship between each feature and the target variable with a Chi-squared test.
+The model's performance on a test set is recorded, and the process continues until no more features are left.
+In this case, the ideal balance between the number of features and the model's performance was found to be 43 features, which is likely to yield the best prediction results for accident severity.
+
+After conducting our analysis, we discovered that there are many avenues to take to get further insights.
+This study only covered the period between 2005 and 2017, so there is more to explore in the 2018, 2019, and the COVID-19 pandemic years.
+The United Kingdom Department for Transport also provides more accident attributes that were not included in this study.
+
+At the start of the study, the aim was to obtain all the attributes, but it proved too difficult to obtain them all without having the dataset fail to generate and download.
+Also, our data transformation effectively aligned with the study's objective, but it may not be ideally suited for machine learning prediction models, as evidenced by our model's limited predictive capabilities (recall score).
+There were also some unanswered questions, such as how the speed limit of 70 miles per hour failed to reject the null hypothesis, and better ways to clean or reshape the data to eliminate unrealistic values, such as a horse with a value for Engine Capacity.
+Future work should explore alternative data transformations or structuring approaches to enhance prediction performance.
+
+A potential direction for future work is to apply association rule mining techniques to discover and analyse interesting relationships between contributing factors of road traffic accidents.
+Another promising direction for future analysis is to compare the UK road traffic accident dataset with similar datasets from other countries, such as:
+\begin{itemize}
+    \item The French Road Safety Observatory (ONISR)
+    \item The Federal Statistical Office of Germany (Statistisches Bundesamt)
+    \item The Australian Bureau of Infrastructure, Transport and Regional Economics (BITRE)
+    \item The Fatality Analysis Reporting System (FARS) provided by the US National Highway Traffic Safety Administration (NHTSA)
+\end{itemize}
+
+By conducting an international comparison, similarities and differences can be further investigated for patterns and contributing factors that might not have been captured in the UK's road traffic accident dataset.

@@ -1,0 +1,83 @@
+\documentclass[a4paper,conference]{IEEEtran}
+
+\usepackage{lipsum} % For generating dummy text
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+
+\usepackage[svgnames,x11names,table]{xcolor}
+\usepackage{hyperref} %[hidelinks]
+\hypersetup{colorlinks=true, allcolors=NavyBlue,
+    pdftitle={An Analysis of Contributing Factors in Severe and Fatal Road Traffic Accidents in the UK}, pdfauthor={Tristan Everitt}}
+
+\usepackage[style=ieee,sortlocale=en_GB, backend=biber,urldate=comp, doi=false, isbn=false,sorting=none]{biblatex}
+\DeclareFieldFormat{urldate}{(Accessed: #1)}
+
+\addbibresource{main.bib}
+
+
+\title{
+    An Analysis of Contributing Factors in Severe and Fatal Road Traffic Accidents in the UK
+    \\ {\normalsize 2022/2023 CA683I Data Analytics and Data Mining}
+    \\ {\normalsize Project Group 30 Notebook: \href{https://github.com/te-dcu/CA683I-2023-Assignment}{https://github.com/te-dcu/CA683I-2023-Assignment/Notebook.ipynb}}
+}
+
+\author{
+    \IEEEauthorblockN{Nuno Correia}
+    \IEEEauthorblockA{
+        \textit{\#21267090} \\
+        \textit{School of Computing} \\
+        \textit{Dublin City University}\\
+        nuno.correia2@mail.dcu.ie}
+    \and
+    \IEEEauthorblockN{Tristan Everitt}
+    \IEEEauthorblockA{
+        \textit{\#22270316} \\
+        \textit{School of Computing} \\
+        \textit{Dublin City University}\\
+        tristan.everitt2@mail.dcu.ie}
+    \and
+    \IEEEauthorblockN{Toyatma Fedee}
+    \IEEEauthorblockA{
+        \textit{\#22267485} \\
+        \textit{School of Computing} \\
+        \textit{Dublin City University}\\
+        toyatma.fedee2@mail.dcu.ie}
+    \and
+    \IEEEauthorblockN{Paul Ryan}
+    \IEEEauthorblockA{
+        \textit{\#22270321} \\
+        \textit{School of Computing} \\
+        \textit{Dublin City University}\\
+        paul.ryan79@mail.dcu.ie}
+}
+
+\begin{document}
+    \maketitle
+
+    \begin{abstract}
+        \input{abstract}
+    \end{abstract}
+
+
+    \section{Introduction}\label{sec:introduction}
+    \input{introduction}
+
+    \section{Related Work}\label{sec:related-work}
+    \input{related_work}
+
+
+    \section{Methodology}\label{sec:methodology}
+    \input{methodology}
+
+    \section{Evaluation/Results}\label{sec:evaluation/results}
+    \input{results}
+
+
+    \section{Conclusions and Future Work}\label{sec:conclusions-and-future-work}
+    \input{conclusion}
+
+    \printbibliography
+\end{document}
